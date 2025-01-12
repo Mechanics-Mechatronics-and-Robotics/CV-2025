@@ -3,7 +3,7 @@ A course on computer vision (CV) which includes both, the basic methods and algo
 
 #someLinks (please check for updates)
 
-[Synopsis (short version in English)](https://www.overleaf.com/read/whysrycbffkd#b871b9)
+[Synopsis (short version in English)](https://www.overleaf.com/read/mdpbnhhvbzdq#b61b08)
 
 [Synopsis (full version in Russian) - TBA]()
 
